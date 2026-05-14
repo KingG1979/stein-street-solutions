@@ -12,3 +12,5 @@ Public company/umbrella website for Stein Street Solutions.
 ## Deployment
 
 This is a static site intended for Vercel.
+
+Plain static site: `index.html`, `styles.css`, `vercel.json`. No build step.
